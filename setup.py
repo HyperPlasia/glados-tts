@@ -8,7 +8,7 @@ setup(
     version="1.0.2",
     license="MIT",
     url='https://github.com/R2D2FISH/glados-tts',
-    description="frok of https://github.com/R2D2FISH/glados-tts",
+    description="fork of https://github.com/R2D2FISH/glados-tts",
     author="https://github.com/R2D2FISH/glados-tts/graphs/contributors",
     py_modules=["glados"],
     packages=["glados"],

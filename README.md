@@ -1,5 +1,15 @@
 # GLaDOS Text-to-speech (TTS) Voice Generator
+___
+> fork of R2D2FISH/glados-tts  
+> to install with pip by adding requirements to my project  
+> not upload to pypi.org.
 
+
+> requirements.txt  
+> ```git+https://github.com/HyperPlasia/glados-tts@main```  
+> then  
+> `$ pip install -r requirements.txt`
+___
 Neural network based TTS Engine.
 
 If you want to just play around with the TTS, this works as stand-alone.
